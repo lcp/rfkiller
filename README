@@ -1,0 +1,17 @@
+rfkiller is a gnome-shell extension to manage the rfkill devices.
+
+=== Requirements ===
+gnome-shell
+urfkill
+
+=== Installation ===
+Install RFKiller@glin.suse.com to the system extension dir
+
+/usr/share/gnome-shell/extensions
+
+or the local dir
+
+ ~/.local/share/gnome-shell/extensions
+
+=== How To Use ===
+Just press the hotkey (WLAN/BLUETOOTH/WWAN) on the laptop keyboard
